@@ -37,3 +37,5 @@ utilizing the information gathered, the best way to maximize revenue and minimis
 - genre should be Action/Adventure/Sci-Fi
   - Follow the hero's journey to capture the widest audiance
 - Release films around the holiday season or mid-year     
+
+# Reository Structure
