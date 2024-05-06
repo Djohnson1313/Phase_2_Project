@@ -39,3 +39,8 @@ utilizing the information gathered, the best way to maximize revenue and minimis
 - Release films around the holiday season or mid-year     
 
 # Reository Structure
+
+├── ZippedData
+├── Phase.2.project.notebook.ipynb
+├── README.md
+└── movie_data_erd.jpeg
