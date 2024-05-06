@@ -1,8 +1,8 @@
 # Maximizing Movie Profit
 - Darryn J.
 - Instructor : Morgan Jones
-- 5 / 2 / 24
-- Blog :
+- 5 / 5 / 24
+- Blog : [Learning More Than Coding](https://www.blogger.com/u/1/blog/post/edit/8607393977020330242/7284903837330590735)
 ## Overview
 In this repository, we look into bom.movie_gross.csv.gz, im.db.unzipped and some scrapped data from the internet to gather information about films from 2010 to 2018. This dataframe contains 3386 entries with 6 columns.
 ## Business Understanding
