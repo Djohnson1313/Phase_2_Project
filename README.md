@@ -9,7 +9,7 @@ In this repository, we look into bom.movie_gross.csv.gz, im.db.unzipped and some
 Maximizing revenue and minimising risk is our upmost priority. Using 3 metrics, Revenue, Genre and Release Window, we will determine the safest way to produce films.
 ## Distribution of the data
 
-![Screenshot 2024-05-02 134321](https://github.com/Djohnson1313/Phase_2_Project/assets/145507761/8d9ff9e9-27d0-41d6-a13c-6bb039180ff2)
+![Screenshot 2024-05-15 102522](https://github.com/Djohnson1313/Phase_2_Project/assets/145507761/ee741896-398a-4e4b-88e4-9fbb732e1111)
 
 Here we can see a bit of a trend, with interest in films slowly rising over time.
 # Revenue
